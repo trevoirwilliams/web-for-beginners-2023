@@ -1,0 +1,51 @@
+h1,h2,h3,h4,h5,h6{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    color: crimson;
+    text-decoration: underline;
+}
+h2{
+    color:lightcoral;
+}
+
+p{
+    font-family:'Courier New', Courier, monospace
+}
+table{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width:100%;
+    text-align: center;
+    border: 1px solid grey;
+    border-collapse: collapse;
+}
+th, td{
+    border: 1px solid grey;
+    padding: 8px;
+}
+
+#nav{
+    text-align: center;
+    background-color: darkcyan;
+    padding: 5px;
+    color: white;
+}
+#nav a{
+    text-decoration: none;
+    color: white;
+}
+#content{
+    width: 80%;
+    margin: 0 auto;
+}
+#footer{
+    background-color: darkslategrey;
+    padding-bottom: 150px;
+    margin-top: 25px;
+}
+
+#footer a{
+    text-decoration: none;
+    color: white;
+    margin-top: 10px;
+}
